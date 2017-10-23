@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/lib/js/jquery.emojiarea.js" line="770" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18507406-12e1-4d7d-8370-e7b58f20ea73" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/js/emoji-picker.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/js/emoji-picker.js.map" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/index.html" afterPath="$PROJECT_DIR$/demo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/js/config.js" afterPath="$PROJECT_DIR$/lib/js/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/js/emoji-picker-helper.js" afterPath="$PROJECT_DIR$/lib/js/emoji-picker-helper.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/js/emoji-picker.js" afterPath="$PROJECT_DIR$/lib/js/emoji-picker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/js/jquery.emojiarea.js" afterPath="$PROJECT_DIR$/lib/js/jquery.emojiarea.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/js/util.js" afterPath="$PROJECT_DIR$/lib/js/util.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/js/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="820">
+              <caret line="3537" column="0" lean-forward="false" selection-start-line="3537" selection-start-column="0" selection-end-line="3537" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.emojiarea.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/js/jquery.emojiarea.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="310">
+              <caret line="589" column="0" lean-forward="false" selection-start-line="589" selection-start-column="0" selection-end-line="589" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#2188#3241#0" expanded="false" />
+                <element signature="e#3383#3971#0" expanded="false" />
+                <element signature="e#4015#4692#0" expanded="false" />
+                <element signature="e#4739#6054#0" expanded="false" />
+                <element signature="e#6106#6852#0" expanded="false" />
+                <element signature="e#6889#7184#0" expanded="false" />
+                <element signature="e#7225#7301#0" expanded="false" />
+                <element signature="e#7343#7482#0" expanded="false" />
+                <element signature="e#7653#8241#0" expanded="false" />
+                <element signature="e#8436#8786#0" expanded="false" />
+                <element signature="e#8839#9119#0" expanded="false" />
+                <element signature="e#9313#10578#0" expanded="false" />
+                <element signature="e#10970#11123#0" expanded="false" />
+                <element signature="e#11182#11537#0" expanded="false" />
+                <element signature="e#11588#11691#0" expanded="false" />
+                <element signature="e#12065#16466#0" expanded="false" />
+                <element signature="e#16539#17169#0" expanded="false" />
+                <element signature="e#17228#17362#0" expanded="false" />
+                <element signature="e#17423#18529#0" expanded="false" />
+                <element signature="e#18582#20069#0" expanded="false" />
+                <element signature="e#20259#20610#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="emoji-picker-helper.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/js/emoji-picker-helper.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="39" column="39" lean-forward="false" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
+              <folding>
+                <marker date="1508426976893" expanded="true" signature="342:374" ph="{...}" />
+                <marker date="1508426976893" expanded="true" signature="2002:2083" ph="{...}" />
+                <marker date="1508426976893" expanded="true" signature="2002:2086" ph="{...}" />
+                <marker date="1508426976893" expanded="true" signature="2097:2114" ph="{&quot;init&quot;: init...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="emoji-picker.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/js/emoji-picker.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="util.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/js/util.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cancelEvent</find>
+      <find>getGuid</find>
+      <find>storageSetPrefix</find>
+      <find>ConfigStorage</find>
+      <find>buildMap</find>
+      <find>config.</find>
+      <find>Config.</find>
+      <find>emoji-menu</find>
+      <find>$menu</find>
+      <find>hide()</find>
+      <find>EmojiArea_WYSIWYG</find>
+      <find>show</find>
+      <find>show(</find>
+      <find>hide</find>
+      <find>hide(</find>
+      <find>console</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/js/util.js" />
+        <option value="$PROJECT_DIR$/lib/js/emoji-picker.js" />
+        <option value="$PROJECT_DIR$/lib/js/emoji-picker-helper.js" />
+        <option value="$PROJECT_DIR$/lib/js/jquery.emojiarea.js" />
+        <option value="$PROJECT_DIR$/lib/js/config.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="emoji-picker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="emoji-picker" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="emoji-picker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="emoji-picker" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="emoji-picker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="emoji-picker" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="emoji-picker" type="b2602c69:ProjectViewProjectNode" />
+              <item name="emoji-picker" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18507406-12e1-4d7d-8370-e7b58f20ea73" name="Default" comment="" />
+      <created>1508423275678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508423275678</updated>
+      <workItem from="1508423277485" duration="3026000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3026000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Quokka" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/js/emoji-picker.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/js/util.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/js/emoji-picker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/js/emoji-picker-helper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="39" column="39" lean-forward="false" selection-start-line="39" selection-start-column="39" selection-end-line="39" selection-end-column="39" />
+          <folding>
+            <marker date="1508426976893" expanded="true" signature="342:374" ph="{...}" />
+            <marker date="1508426976893" expanded="true" signature="2002:2083" ph="{...}" />
+            <marker date="1508426976893" expanded="true" signature="2002:2086" ph="{...}" />
+            <marker date="1508426976893" expanded="true" signature="2097:2114" ph="{&quot;init&quot;: init...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/js/jquery.emojiarea.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="589" column="0" lean-forward="false" selection-start-line="589" selection-start-column="0" selection-end-line="589" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#2188#3241#0" expanded="false" />
+            <element signature="e#3383#3971#0" expanded="false" />
+            <element signature="e#4015#4692#0" expanded="false" />
+            <element signature="e#4739#6054#0" expanded="false" />
+            <element signature="e#6106#6852#0" expanded="false" />
+            <element signature="e#6889#7184#0" expanded="false" />
+            <element signature="e#7225#7301#0" expanded="false" />
+            <element signature="e#7343#7482#0" expanded="false" />
+            <element signature="e#7653#8241#0" expanded="false" />
+            <element signature="e#8436#8786#0" expanded="false" />
+            <element signature="e#8839#9119#0" expanded="false" />
+            <element signature="e#9313#10578#0" expanded="false" />
+            <element signature="e#10970#11123#0" expanded="false" />
+            <element signature="e#11182#11537#0" expanded="false" />
+            <element signature="e#11588#11691#0" expanded="false" />
+            <element signature="e#12065#16466#0" expanded="false" />
+            <element signature="e#16539#17169#0" expanded="false" />
+            <element signature="e#17228#17362#0" expanded="false" />
+            <element signature="e#17423#18529#0" expanded="false" />
+            <element signature="e#18582#20069#0" expanded="false" />
+            <element signature="e#20259#20610#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="820">
+          <caret line="3537" column="0" lean-forward="false" selection-start-line="3537" selection-start-column="0" selection-end-line="3537" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
