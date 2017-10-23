@@ -42,9 +42,19 @@
           opacity: .7;
       }
       #subject {
+        display: block !important;
         width: 800px;
       }
-
+      .output-demo {
+        display: block;
+        margin: 20px 0 0;
+        width: 100%;
+        border: 0 none;
+        background-color: #cacaca;
+        border-radius: 5px;
+        height: 40px;
+        line-height: 40px;
+      }
 
       /* ------------------------------------------ */
       .emoji-menu .emoji-items-wrap {
@@ -98,10 +108,11 @@
                     <div class="controls">
                         <input
                           type="text" class="span12" name="subject" id="subject" aria-invalid="false"
-                          placeholder="Asunto" data-emojiable="true" data-multiline="false" data-emoji-input="unicode"
+                          placeholder="Asunto" data-emojiable="true" data-multiline="false"
                           required value="">
                     </div>
                 </div>
+                <input type="text" name="output" class="output-demo">
                 <button style="margin: 30px auto">Enviar</button>
               </form>
             </p>
@@ -129,6 +140,13 @@
         };
 
         window.emojiPickerHelper.init(options);
+
+        // Only for demo:
+        $('form').on('submit', function () {
+            console.info('cambio');
+            $('.output-demo').val($(options.emojiable_selector).val());
+            return false;
+        } );
       });
     </script>
   </body>
