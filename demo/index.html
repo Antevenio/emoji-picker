@@ -18,7 +18,7 @@
     <style type="text/css">
       body {
         background-color: #DEDEDE;
-        font-family: arial;
+        font-family: arial, sans-serif;
         font-size: 13px;
       }
       label {
@@ -42,7 +42,7 @@
           opacity: .7;
       }
       #subject {
-        display: block !important;
+        /*display: block !important;*/
         width: 800px;
       }
       .output-demo {
@@ -62,7 +62,7 @@
       }
       .emoji-wysiwyg-editor {
           color: gray;
-          border: 1px solid #ccc;
+          border: 3px solid #ccc;
           border-radius: 3px;
           box-shadow: inset 0 1px 3px rgba(0,0,0,.1);
           background-color: #FFFFFF;
@@ -73,13 +73,13 @@
           overflow: hidden;
       }
       .emoji-wysiwyg-editor:focus {
-        border: 1px solid #000;
+        border: 3px solid #000;
       }
       .emoji-wysiwyg-editor.error.error-required {
-          border: 1px solid #E73034;
+          border: 3px solid #E73034;
       }
       .emoji-wysiwyg-editor.validate-success {
-          border: 1px solid #8D884A !important;
+          border: 3px solid #8D884A !important;
       }
       .emoji-picker-icon {
           top: 9px;
@@ -107,13 +107,23 @@
 
                     <div class="controls">
                         <input
-                          type="text" class="span12" name="subject" id="subject" aria-invalid="false"
-                          placeholder="Asunto" data-emojiable="true" data-multiline="false"
-                          required value="">
+                            type="text" class="span12" name="inputA" id="inputA" aria-invalid="false"
+                            placeholder="Field A" data-emojiable="true" data-multiline="false"
+                            required value="">
+                    </div>
+
+                    <hr>
+
+                    <div class="controls">
+                        <input
+                            type="text" class="span12" name="inputB" id="inputB" aria-invalid="false"
+                            placeholder="Field B" data-emojiable="true" data-multiline="false"
+                            required value="">
                     </div>
                 </div>
                 <input type="text" name="output" class="output-demo">
                 <button style="margin: 30px auto">Enviar</button>
+                <button type="button" id="noSubmit">Botón que no es submit</button>
               </form>
             </p>
           </div>
@@ -141,12 +151,10 @@
 
         window.emojiPickerHelper.init(options);
 
-        // Only for demo:
-        $('form').on('submit', function () {
-            console.info('cambio');
-            $('.output-demo').val($(options.emojiable_selector).val());
-            return false;
-        } );
+        // Only for demo
+        $('#noSubmit').on('click', function () {
+            $(this).parents('form').trigger('formValidation');
+        });
       });
     </script>
   </body>
